@@ -13,9 +13,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/KillerByte/node-merged-pool",
+    "homepage": "https://github.com/lionpool/node-merged-pool",
     "bugs": {
-        "url": "https://github.com/KillerByte/node-merged-pool/issues"
+        "url": "https://github.com/lionpool/node-merged-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Daniel Beal",
@@ -27,7 +27,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/KillerByte/node-merged-pool.git"
+        "url": "https://github.com/lionpool/node-merged-pool.git"
     },
     "dependencies": {
         "multi-hashing": "git://github.com/lionpool/node-multi-hashing.git",
